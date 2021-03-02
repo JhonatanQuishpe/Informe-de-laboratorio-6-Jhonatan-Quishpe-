@@ -58,6 +58,7 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 
 Al momento de realizar esta práctica de laboratorio nos sirvió para entender y verificar el cumplimiento del osciloscopio y poder resolver paso a paso los ejercicios que estan establecidos en la practica.
+
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión más eficiente de la energía.
 Generalmente, la corriente alterna se refiere a la forma en la cual la electricidad llega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio transmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
 
@@ -79,11 +80,13 @@ Proceso
 1.- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?______3_____
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ____2.25_______
+
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?_____8_____
 
 ¿En qué valor está posicionada la perilla TIME/DIV?  ____50 u_______
 
 2.- ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalladel osciloscopio?
+
 Amplitud de voltaje: _____6.86_______(V)
 Periodo: _____0.000394______(s)
 
