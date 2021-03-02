@@ -88,15 +88,19 @@ Proceso
 2.- ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalladel osciloscopio?
 
 Amplitud de voltaje: _____6.86_______(V)
+
 Periodo: _____0.000394______(s)
 
 3.- Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
 f: ______2500_______(Hz)
+
 ω: ______15707.96______(rad/s)
 
 4.- Con el multímetro digital mida el voltaje de salida en RL: ______4.861V_________
 
 5.- Compare el voltaje medido en el punto 2  y el obtenido en el punto 4.
+
 ¿Coinciden? ___NO____ ¿Por qué?
 
 por que el voltaje medido con el osciloscopio es un voltaje pico que nos da la señal o también conocida como la amplitud, mientras que con el multímetro nos da el voltaje Rms el cual ya está dividido para raíz de 2. 
